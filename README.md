@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Math
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
