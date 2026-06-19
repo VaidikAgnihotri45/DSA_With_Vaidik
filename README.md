@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0225-implement-stack-using-queues) |
+| [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Queue
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +30,8 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
+## Greedy
+|  |
+| ------- |
+| [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 <!---LeetCode Topics End-->
