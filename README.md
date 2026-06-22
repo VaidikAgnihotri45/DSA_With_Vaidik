@@ -31,11 +31,13 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
