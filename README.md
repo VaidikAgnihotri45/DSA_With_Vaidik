@@ -26,6 +26,7 @@
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Math
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
