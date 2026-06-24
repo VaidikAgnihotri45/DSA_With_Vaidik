@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
+| [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0152-maximum-product-subarray) |
@@ -43,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
@@ -86,4 +88,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
