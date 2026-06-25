@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
@@ -54,11 +55,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
@@ -68,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
