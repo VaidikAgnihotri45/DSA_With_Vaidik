@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
