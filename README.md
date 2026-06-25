@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0225-implement-stack-using-queues) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
 | [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -106,8 +109,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0043-multiply-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
