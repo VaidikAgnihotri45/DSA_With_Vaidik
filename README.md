@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0198-house-robber](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Sorting
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0085-maximal-rectangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
