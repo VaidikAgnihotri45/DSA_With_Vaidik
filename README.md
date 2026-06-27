@@ -67,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 ## Two Pointers
@@ -132,4 +133,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
