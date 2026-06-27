@@ -27,6 +27,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
