@@ -66,6 +66,7 @@
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
+| [1768-merge-strings-alternately](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
