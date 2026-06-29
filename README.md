@@ -53,6 +53,7 @@
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0179-largest-number](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0227-basic-calculator-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
