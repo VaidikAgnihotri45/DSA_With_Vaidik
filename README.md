@@ -133,6 +133,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0322-coin-change) |
 ## Linked List
@@ -170,6 +172,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -179,6 +182,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
