@@ -41,6 +41,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0322-coin-change) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2241-design-an-atm-machine](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/2241-design-an-atm-machine) |
 ## Math
 |  |
