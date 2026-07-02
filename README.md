@@ -89,6 +89,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/1768-merge-strings-alternately) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/VaidikAgnihotri45/DSA_With_Vaidik/tree/master/0086-partition-list) |
 ## String Matching
 |  |
 | ------- |
